@@ -1,3 +1,4 @@
+mysql:8.0.42
 mysql:8.4.5
 postgres:17.5
 mongo:8.0.10
@@ -8,4 +9,7 @@ redis:8.0.1
 nastool/nas-tools:3.2.3
 jxxghp/moviepilot:1.9.19
 jxxghp/moviepilot-v2:2.5.8
+amilys/embyserver:latest
+amilys/embyserver:4.9.0.57
+gitea:1.24
 # 此处一定要有一行空行
