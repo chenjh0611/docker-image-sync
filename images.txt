@@ -11,7 +11,7 @@ jxxghp/moviepilot:1.9.19
 jxxghp/moviepilot-v2:2.5.8
 amilys/embyserver:latest
 amilys/embyserver:4.9.0.57
-gitea:1.24
+gitea/gitea:1.24
 openeuler/openeuler:20.03
 openeuler/openeuler:20.03-lts
 openeuler/openeuler:20.03-lts-sp3
