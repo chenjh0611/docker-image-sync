@@ -12,4 +12,8 @@ jxxghp/moviepilot-v2:2.5.8
 amilys/embyserver:latest
 amilys/embyserver:4.9.0.57
 gitea:1.24
+openeuler/openeuler:20.03
+openeuler/openeuler:20.03-lts
+openeuler/openeuler:20.03-lts-sp3
+openeuler/openeuler:20.03-lts-sp4
 # 此处一定要有一行空行
