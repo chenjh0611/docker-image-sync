@@ -19,4 +19,5 @@ openeuler/openeuler:20.03-lts-sp4
 alpine:3
 alpine:3.22
 alpine:3.22.0
+portainer/agent:2.27.9
 # 此处一定要有一行空行
