@@ -9,6 +9,7 @@ redis:8.0.1
 nastool/nas-tools:3.2.3
 jxxghp/moviepilot:1.9.19
 jxxghp/moviepilot-v2:2.5.8
+jxxghp/moviepilot-v2:2.6.4
 amilys/embyserver:latest
 amilys/embyserver:4.9.0.57
 gitea/gitea:1.24
