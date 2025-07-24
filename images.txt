@@ -25,4 +25,5 @@ portainer/portainer-ce:2.27.9
 portainer/portainer-ce:2.31.3
 6053537/portainer-ce:2.21.4
 6053537/portainer-ce:2.24.1
+xhongc/music_tag_web:2.5.2
 # 此处一定要有一行空行
