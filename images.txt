@@ -31,4 +31,5 @@ nginx:1.28.0
 nginx:1.28.1
 nginx:1.29.0
 nginx:1.29.4
+apacherocketmq/rocketmq-dashboard:latest
 # 此处一定要有一行空行
