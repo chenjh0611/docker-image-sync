@@ -1,35 +1,36 @@
-mysql:8.0.42
-mysql:8.4.5
-postgres:17.5
-mongo:8.0.10
-php:8.4
-ubuntu:22.04
-python:3.9-slim
-redis:8.0.1
-nastool/nas-tools:3.2.3
-jxxghp/moviepilot:1.9.19
-jxxghp/moviepilot-v2:2.5.8
-jxxghp/moviepilot-v2:2.6.4
-amilys/embyserver:latest
-amilys/embyserver:4.9.0.57
-gitea/gitea:1.24
-openeuler/openeuler:20.03
-openeuler/openeuler:20.03-lts
-openeuler/openeuler:20.03-lts-sp3
-openeuler/openeuler:20.03-lts-sp4
-alpine:3
-alpine:3.22
-alpine:3.22.0
-portainer/agent:2.27.9
-portainer/portainer-ce:2.27.9
-portainer/portainer-ce:2.31.3
-6053537/portainer-ce:2.21.4
-6053537/portainer-ce:2.24.1
-xhongc/music_tag_web:2.5.2
-nginx:1.23.4
-nginx:1.28.0
-nginx:1.28.1
-nginx:1.29.0
-nginx:1.29.4
-apacherocketmq/rocketmq-dashboard:latest
+# mysql:8.0.42
+# mysql:8.4.5
+# postgres:17.5
+# mongo:8.0.10
+# php:8.4
+# ubuntu:22.04
+# python:3.9-slim
+# redis:8.0.1
+# nastool/nas-tools:3.2.3
+# jxxghp/moviepilot:1.9.19
+# jxxghp/moviepilot-v2:2.5.8
+# jxxghp/moviepilot-v2:2.6.4
+# amilys/embyserver:latest
+# amilys/embyserver:4.9.0.57
+# gitea/gitea:1.24
+# openeuler/openeuler:20.03
+# openeuler/openeuler:20.03-lts
+# openeuler/openeuler:20.03-lts-sp3
+# openeuler/openeuler:20.03-lts-sp4
+# alpine:3
+# alpine:3.22
+# alpine:3.22.0
+# portainer/agent:2.27.9
+# portainer/portainer-ce:2.27.9
+# portainer/portainer-ce:2.31.3
+# 6053537/portainer-ce:2.21.4
+# 6053537/portainer-ce:2.24.1
+# xhongc/music_tag_web:2.5.2
+# nginx:1.23.4
+# nginx:1.28.0
+# nginx:1.28.1
+# nginx:1.29.0
+# nginx:1.29.4
+# apacherocketmq/rocketmq-dashboard:latest
+grafana/grafana:12.3.0
 # 此处一定要有一行空行
