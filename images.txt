@@ -32,5 +32,6 @@
 # nginx:1.29.0
 # nginx:1.29.4
 # apacherocketmq/rocketmq-dashboard:latest
+grafana/grafana:12.0.9
 grafana/grafana:12.3.0
 # 此处一定要有一行空行
