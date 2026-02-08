@@ -34,4 +34,6 @@
 # apacherocketmq/rocketmq-dashboard:latest
 grafana/grafana:12.0.9
 grafana/grafana:12.3.0
+zookeeper:3.6.4
+zookeeper:3.7.2
 # 此处一定要有一行空行
