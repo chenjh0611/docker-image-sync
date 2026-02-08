@@ -36,4 +36,6 @@ grafana/grafana:12.0.9
 grafana/grafana:12.3.0
 zookeeper:3.6.4
 zookeeper:3.7.2
+amilys/embyserver:beta
+amilys/embyserver:4.9.1.90
 # 此处一定要有一行空行
