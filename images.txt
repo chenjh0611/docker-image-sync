@@ -38,10 +38,9 @@
 # zookeeper:3.7.2
 # amilys/embyserver:beta
 # amilys/embyserver:4.9.1.90
-fluent/fluent-bit:1.5
-fluent/fluent-bit:1.8
-linuxserver/msedge:latest
-linuxserver/chromium:latest
-linuxserver/firefox:latest
-browserless/chrome:latest
+# fluent/fluent-bit:1.5
+# fluent/fluent-bit:1.8
+# linuxserver/msedge:latest
+# linuxserver/chromium:latest
+# linuxserver/firefox:latest
 # 此处一定要有一行空行
