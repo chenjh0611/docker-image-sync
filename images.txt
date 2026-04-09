@@ -40,5 +40,8 @@
 # amilys/embyserver:4.9.1.90
 fluent/fluent-bit:1.5
 fluent/fluent-bit:1.8
-lscr.io/linuxserver/firefox:latest
+linuxserver/msedge:latest
+linuxserver/chromium:latest
+linuxserver/firefox:latest
+browserless/chrome:latest
 # 此处一定要有一行空行
