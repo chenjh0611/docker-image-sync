@@ -10,6 +10,7 @@
 # jxxghp/moviepilot:1.9.19
 # jxxghp/moviepilot-v2:2.5.8
 # jxxghp/moviepilot-v2:2.6.4
+jxxghp/moviepilot-v2:2.9.30
 # amilys/embyserver:latest
 # amilys/embyserver:4.9.0.57
 # gitea/gitea:1.24
