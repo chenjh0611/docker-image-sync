@@ -44,5 +44,6 @@
 # linuxserver/msedge:latest
 # linuxserver/chromium:latest
 # linuxserver/firefox:latest
-photoprism/photoprism:latest
+# photoprism/photoprism:latest
+openlistteam/openlist:latest
 # 此处一定要有一行空行
