@@ -46,4 +46,5 @@
 # linuxserver/firefox:latest
 # photoprism/photoprism:latest
 openlistteam/openlist:latest
+xhongc/music_tag_web:2.7.1
 # 此处一定要有一行空行
