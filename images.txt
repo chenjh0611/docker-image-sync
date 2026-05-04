@@ -13,6 +13,8 @@
 # jxxghp/moviepilot-v2:2.9.30
 # amilys/embyserver:latest
 # amilys/embyserver:4.9.0.57
+# amilys/embyserver:beta
+# amilys/embyserver:4.9.1.90
 # gitea/gitea:1.24
 # openeuler/openeuler:20.03
 # openeuler/openeuler:20.03-lts
@@ -37,15 +39,14 @@
 # grafana/grafana:12.3.0
 # zookeeper:3.6.4
 # zookeeper:3.7.2
-# amilys/embyserver:beta
-# amilys/embyserver:4.9.1.90
 # fluent/fluent-bit:1.5
 # fluent/fluent-bit:1.8
 # linuxserver/msedge:latest
 # linuxserver/chromium:latest
 # linuxserver/firefox:latest
 # photoprism/photoprism:latest
-openlistteam/openlist:latest
-xhongc/music_tag_web:2.7.1
-dreamacro/clash:latest
+# openlistteam/openlist:latest
+# xhongc/music_tag_web:2.7.1
+# dreamacro/clash:latest
+mtphotos/mt-photos:1.51.0
 # 此处一定要有一行空行
