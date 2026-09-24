@@ -14,10 +14,10 @@ jobs:
     runs-on: ubuntu-latest # GitHub Actions Runner 运行环境 (Ubuntu 最新版)
     steps:
       - name: Checkout repository # 步骤1: 拉取 GitHub 仓库代码
-        uses: actions/checkout@v4 # 使用 actions/checkout@v4 action
+        uses: actions/checkout@v6 # 使用 actions/checkout@v6 action
       
       - name: Login to Aliyun Container Registry (ACR) # 步骤2: 登录 ACR
-        uses: docker/login-action@v3 # 使用 docker/login-action@v3 action
+        uses: docker/login-action@v4 # 使用 docker/login-action@v4 action
         with:
           registry: ${{ secrets.ACR_REGISTRY }} # 动态构建 ACR Registry 地址
           username: ${{ secrets.ACR_USERNAME }} # 使用 GitHub Secrets 中的 ACR 用户名 (RAM AccessKey ID)
