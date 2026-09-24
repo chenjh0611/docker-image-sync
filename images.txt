@@ -15,6 +15,7 @@
 # amilys/embyserver:4.9.0.57
 # amilys/embyserver:beta
 # amilys/embyserver:4.9.1.90
+# amilys/embyserver:4.9.3.0
 # gitea/gitea:1.24
 # openeuler/openeuler:20.03
 # openeuler/openeuler:20.03-lts
