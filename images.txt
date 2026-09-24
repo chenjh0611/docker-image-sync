@@ -15,7 +15,6 @@
 # amilys/embyserver:4.9.0.57
 # amilys/embyserver:beta
 # amilys/embyserver:4.9.1.90
-# amilys/embyserver:4.9.3.0
 # gitea/gitea:1.24
 # openeuler/openeuler:20.03
 # openeuler/openeuler:20.03-lts
@@ -52,4 +51,5 @@
 # mtphotos/mt-photos:1.51.0
 # cloudnas/clouddrive2:1.0.8
 tailscale/tailscale:v1.98.3
+amilys/embyserver:4.9.3.0
 # 此处一定要有一行空行
