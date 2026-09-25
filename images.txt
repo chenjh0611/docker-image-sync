@@ -48,8 +48,10 @@
 # openlistteam/openlist:latest
 # xhongc/music_tag_web:2.7.1
 # dreamacro/clash:latest
-# mtphotos/mt-photos:1.51.0
 # cloudnas/clouddrive2:1.0.8
-tailscale/tailscale:v1.98.3
-amilys/embyserver:4.9.3.0
+# tailscale/tailscale:v1.98.3
+# amilys/embyserver:4.9.3.0
+# mtphotos/mt-photos:1.51.0
+mtphotos/mt-photos:1.57.0
+mtphotos/mt-photos-pg:latest
 # 此处一定要有一行空行
