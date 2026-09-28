@@ -50,8 +50,9 @@
 # dreamacro/clash:latest
 # cloudnas/clouddrive2:1.0.8
 # tailscale/tailscale:v1.98.3
+tailscale/tailscale:v1.102.5
 # amilys/embyserver:4.9.3.0
 # mtphotos/mt-photos:1.51.0
-mtphotos/mt-photos:1.57.0
-mtphotos/mt-photos-pg:latest
+# mtphotos/mt-photos:1.57.0
+# mtphotos/mt-photos-pg:latest
 # 此处一定要有一行空行
