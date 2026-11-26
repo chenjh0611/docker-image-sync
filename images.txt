@@ -31,7 +31,7 @@
 # xhongc/music_tag_web:2.5.2
 # nginx:1.23.4
 # nginx:1.28.0
-# nginx:1.28.1
+# nginx:1.28.3
 # nginx:1.29.0
 # nginx:1.29.4
 # apacherocketmq/rocketmq-dashboard:latest
@@ -55,5 +55,7 @@
 # mtphotos/mt-photos:1.51.0
 # mtphotos/mt-photos:1.57.0
 # mtphotos/mt-photos-pg:latest
-gravityle/nullbr115
+# gravityle/nullbr115
+nginx:1.28.3
+nginx:1.31.10
 # 此处一定要有一行空行
